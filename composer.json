@@ -1,0 +1,15 @@
+{
+    "name": "spipremix/date_inscription",
+    "homepage": "https://contrib.spip.net/Date-d-inscription",
+    "keywords": ["spip", "auteur"],
+    "description": "Une date d'inscription pour les auteurs",
+    "type": "spip-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "brunob",
+            "email": "bruno@eliaz.fr"
+        }
+    ],
+    "require": {}
+}
