@@ -1,4 +1,4 @@
-# Z-core
+# Date d'inscription
 
 ![Logo](date_inscription-32.png) Une date d'inscription pour les auteurs
 
